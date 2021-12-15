@@ -1,0 +1,23 @@
+/* Modify the background color */
+         
+        .navbar-custom {
+            background-color: #26004d;
+        }
+        /* Modify brand and text color */
+         
+        .navbar-custom .navbar-brand{
+          color: white;
+        }
+        .navbar-custom .navbar-text {
+            color: white;
+        }
+/* headers colour:Blue*/
+.h{
+  color: #26004d;
+}
+/*nav color*/
+
+.navbar .navbar-nav > li > a,
+.navbar .navbar-nav > .active > a{
+    color: orange;
+}
